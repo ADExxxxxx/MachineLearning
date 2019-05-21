@@ -1,0 +1,5 @@
+iris数据聚2类calinski_harabaz指数为: 513.9245459802768
+iris数据聚3类calinski_harabaz指数为: 561.62775662962
+iris数据聚4类calinski_harabaz指数为: 530.4871420421675
+iris数据聚5类calinski_harabaz指数为: 495.54148767768777
+iris数据聚6类calinski_harabaz指数为: 469.8366331329009
