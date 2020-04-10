@@ -1,2 +1,3 @@
-#MachineLearning
-本项目立足于还原传统的经典机器学习算法，并进行比较详细的注释，若有疑问可联系QQ：739732703
+# MachineLearning
+
+本项目将分别利用原生的python 和 sklearn 分别实现统计机器学习中的常见算法（持续更新中）
